@@ -12,8 +12,8 @@ Você não precisa instalar nenhum banco de dados externo, porque o projeto usa 
 
 2. Clonar o projeto ou baixar
 
-git clone https://github.com/seu-repositorio/eboli-store.git
-cd eboli-store
+git clone https://github.com/seu-repositorio/eboli-project.git
+cd eboli-project
 
 Ou apenas extraia o zip e entre na pasta do projeto.
 
